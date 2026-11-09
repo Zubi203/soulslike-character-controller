@@ -1,0 +1,4 @@
+repository "Souls Like Controller/Souls Like Controller@18967112117759@cloud"
+  path "/"
+    br "/main"
+    co "/main"
